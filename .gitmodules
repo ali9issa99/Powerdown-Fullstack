@@ -1,3 +1,6 @@
 [submodule "Powerdown-Backend"]
 	path = Powerdown-Backend
 	url = https://github.com/ali9issa99/Powerdown-Backend.git
+[submodule "Powerdown-Frontend"]
+	path = Powerdown-Frontend
+	url = https://github.com/ali9issa99/Powerdown-Frontend.git
