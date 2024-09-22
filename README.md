@@ -39,7 +39,7 @@
 ### Mockups
 | Home screen  | Menu Screen | Order Screen |
 | ---| ---| ---|
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| ![Landing](./assets/landing.png) | ![fsdaf](./assets/menu.png) | ![fsdaf](./assets/order.png) |
 
 <br><br>
 
@@ -48,7 +48,7 @@
 
 ###  Architecting Data Excellence: Innovative Database Design Strategies:
 
-- Insert ER Diagram here
+
 ![ER Diagram](./assets/NOSQL_Ali_Issa.png)
 
 <br><br>
