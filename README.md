@@ -49,7 +49,7 @@
 ###  Architecting Data Excellence: Innovative Database Design Strategies:
 
 - Insert ER Diagram here
-
+(./assets/NOSQL_Ali_Issa.png)
 
 <br><br>
 
