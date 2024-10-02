@@ -61,16 +61,16 @@
 ### User Screens (Mobile)
 | Login screen  | Register screen | Landing screen | Loading screen |
 | ---| ---| ---| ---|
-| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
+| ![Landing](./assets/login.png) | ![fsdaf](./assets/register.png) | ![fsdaf](./assets/landing.png) | ![fsdaf](https://placehold.co/900x1600) |
 | Home screen  | Menu Screen | Order Screen | Checkout Screen |
 | ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
 
-### Admin Screens (Web)
+<!-- ### Admin Screens (Web)
 | Login screen  | Register screen |  Landing screen |
 | ---| ---| ---|
 | ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
 | Home screen  | Menu Screen | Order Screen |
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | -->
 
 <br><br>
 
@@ -94,19 +94,19 @@
 <br><br>
 
 <!-- Unit Testing -->
-<img src="./readme/title9.svg"/>
+<!-- <img src="./readme/title9.svg"/>
 
 ###  Precision in Development: Harnessing the Power of Unit Testing:
 
 - This project employs rigorous unit testing methodologies to ensure the reliability and accuracy of code components. By systematically evaluating individual units of the software, we guarantee a robust foundation, identifying and addressing potential issues early in the development process.
 
-<br><br>
+<br><br> -->
 
 
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
 
-> To set up Coffee Express locally, follow these steps:
+> To set up Powerdown locally, follow these steps:
 
 ### Prerequisites
 
@@ -115,6 +115,7 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install npm@latest -g
   ```
+* flutter
 
 ### Installation
 
