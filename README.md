@@ -15,6 +15,10 @@
 - As a user, I want to receive tips and recommendations for saving energy, so I can implement effective energy-saving practices.
 - As a user, I want to set energy-saving goals, so I can track my progress and stay motivated to reduce my energy consumption.
 
+#### Admin
+- As an admin, I want to browse all users, so I can monitor their energy consumption and manage their accounts effectively.
+- As an admin, I want to create new user accounts, so I can onboard users who want to monitor their energy consumption.
+- As an admin, I want to delete user accounts, so I can remove inactive or unnecessary accounts from the system.
 
 <br><br>
 <!-- Tech stack -->
