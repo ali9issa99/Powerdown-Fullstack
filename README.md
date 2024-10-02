@@ -37,7 +37,7 @@
 
 
 ### Mockups
-| Home screen  | Menu Screen | Order Screen |
+| Welcome screen  | Home Screen | Add Rooms Screen |
 | ---| ---| ---|
 | ![Landing](./assets/landing.png) | ![fsdaf](./assets/menu.png) | ![fsdaf](./assets/order.png) |
 
