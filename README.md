@@ -114,12 +114,25 @@
 
 ### Prerequisites
 
-Make sure you have the following installed:
+Make sure you have the following installed:cha
 * npm
   ```sh
   npm install npm@latest -g
   ```
+  ```sh
+  npm install express
+  ```
+  ```sh
+  npm install -g nodemon
+  ```
+  ```sh
+  npm install dotenv
+  ```
+  ```sh
+  npm install express
+  ```
 * flutter
+
 
 ### Installation
 
@@ -137,4 +150,4 @@ _Below is an example of how you can instruct your audience on installing and set
    const API_KEY = 'ENTER YOUR API';
    ```
 
-Now, you should be able to run Coffee Express locally and explore its features.
+Now, you should be able to run Powerdown locally and explore its features.
