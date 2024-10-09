@@ -114,7 +114,7 @@
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Make sure you have the following installed:
 * npm
   ```sh
   npm install npm@latest -g
