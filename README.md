@@ -142,8 +142,7 @@ Make sure you have the following installed:cha
 
 Follow these steps to install and set up Powerdown locally:
 
-1. 
-Get an API Key at [OpenAI](https://beta.openai.com/signup/)
+1. Get an API Key at [OpenAI](https://beta.openai.com/signup/)
 
 2. Clone the repo
   
