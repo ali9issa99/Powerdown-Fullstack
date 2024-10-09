@@ -146,7 +146,7 @@ Follow these steps to install and set up Powerdown locally:
 
 2. Clone the repo
   ```sh
-   git clone (https://github.com/ali9issa99/Powerdown-Fullstack.git)
+   git clone https://github.com/ali9issa99/Powerdown-Fullstack.git
   ```
 3. Install NPM packages
    
