@@ -132,9 +132,11 @@ Make sure you have the following installed:cha
   npm install express
   ```
 * flutter
+ 
+  ```sh
+  flutter run
+  ```
 
-```shflutter run
-```
 
 ### Installation
 
