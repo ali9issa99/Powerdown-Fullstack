@@ -84,11 +84,11 @@
 
 ###  Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
 
-- This project uses advanced prompt engineering techniques to optimize the interaction with natural language processing models. By skillfully crafting input instructions, we tailor the behavior of the models to achieve precise and efficient language understanding and generation for various tasks and preferences.
+- This project uses prompt engineering to help AI give personalized suggestions to users on how to reduce electricity usage in their homes. By carefully designing the prompts, we guide the AI to analyze energy patterns and offer practical tips to lower both energy consumption and CO2 emissions. This ensures that the AI provides clear, useful advice to help users live more sustainably.
 
 
  ![prompt](./assets/prompt1.png)  
- 
+
  ![fsdaf](./assets/prompt2.png) 
 
 <br><br>
