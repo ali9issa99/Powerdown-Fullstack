@@ -66,8 +66,8 @@
 | Login screen  | Register screen | Landing screen | Add Room screen |
 | ---| ---| ---| ---|
 | ![Landing](./assets/login.png) | ![fsdaf](./assets/register.png) | ![fsdaf](./assets/landing.png) | ![fsdaf](./assets/gifs/addRoomGif.gif) |
-| Home screen  | Menu Screen | Order Screen | Checkout Screen |
-| ![Landing](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) | ![fsdaf](https://placehold.co/900x1600) |
+| Home screen  | Navigation  | Analysis Screen | Profile Screen |
+| ![Landing](./assets/gifs/homeScrollGif.gif) | ![fsdaf](./assets/gifs/navigatingGif.gif) | ![fsdaf](./assets/gifs/analysisGif.gif) | ![fsdaf](./assets/gifs/profileGif.gif) |
 
 <!-- ### Admin Screens (Web)
 | Login screen  | Register screen |  Landing screen |
