@@ -145,9 +145,9 @@ Follow these steps to install and set up Powerdown locally:
 1. Get an API Key at [OpenAI](https://beta.openai.com/signup/)
 
 2. Clone the repo
-  
-   git clone [Powerdown](https://github.com/ali9issa99/Powerdown-Fullstack.git)
-
+  ```sh
+   git clone (https://github.com/ali9issa99/Powerdown-Fullstack.git)
+  ```
 3. Install NPM packages
    
    ```sh
