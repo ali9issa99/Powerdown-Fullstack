@@ -133,6 +133,8 @@ Make sure you have the following installed:cha
   ```
 * flutter
 
+```shflutter run
+```
 
 ### Installation
 
