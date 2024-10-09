@@ -142,16 +142,28 @@ Make sure you have the following installed:cha
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [example](https://example.com)
+1. Get an API Key at [OpenAI](https://beta.openai.com/signup/)
 2. Clone the repo
-   git clone [github](https://github.com/your_username_/Project-Name.git)
+   git clone [Powerdown](https://github.com/ali9issa99/Powerdown-Fullstack.git)
 3. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+4. Enter your API in `.env`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   OPENAI_API_KEY="ENTER YOUR OPENAI API KEY"
    ```
+5. Run the backend
+   ```sh
+   node index.js
+   ```
+6. Navigate to the frontend directory
+   ```sh
+   cd ../frontend
+   ```
+7. Run the backend
+   ```sh
+   flutter run
+   ```   
 
 Now, you should be able to run Powerdown locally and explore its features.
